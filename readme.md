@@ -80,3 +80,18 @@ etc.), the amount of funding (a few million USD to a billion USD), and so on. Fo
 -> Private equity type investments are associated with much larger companies and involve much higher investments than venture type. Startups which have grown in scale may also receive private equity funding. This means that if a company has reached the venture stage, it would have already passed through the angel or seed stages. 
 
 
+
+
+## Country Analysis:
+
+Identify the top three English-speaking countries in the data frame top 10. 
+
+
+
+## Sector Analysis:
+
+When we say sector analysis, we refer to one of the eight main sectors listed in the mapping file (note that ‘Other’ is one of the eight main sectors; also, there are eight 
+sectors if you consider the category 'Blanks' as a missing value). This is to simplify 
+the analysis by grouping the numerous category lists (named ‘category_list’) in the mapping file. For example, in the mapping file, category_lists such as ‘3D’, ‘3D 
+Printing’, ‘3D Technology’, etc. are mapped to the main sector ‘Manufacturing’.
+ 
